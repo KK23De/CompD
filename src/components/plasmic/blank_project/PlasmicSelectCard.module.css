@@ -1,0 +1,322 @@
+.group14 {
+  width: 500px;
+  height: 350px;
+  display: block;
+  position: relative;
+}
+.box {
+  box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.289);
+  background: rgba(255, 253, 253, 1);
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 14px;
+}
+.caption {
+  width: 237px;
+  height: 64px;
+  display: block;
+  position: absolute;
+  top: 42px;
+  left: 44px;
+}
+.selectAtLeast4GoalsToContinue {
+  display: block;
+  font-size: 15px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(105, 91, 91, 1);
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  width: 100%;
+  height: 50%;
+}
+.text__pRGga {
+  display: block;
+  font-size: 24px;
+  font-family: "Ponnala";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 58.64%;
+  height: 50%;
+}
+.group13 {
+  width: 100px;
+  height: 50px;
+  display: block;
+  position: absolute;
+  top: 264px;
+  left: 366px;
+}
+.rectangle3 {
+  background: rgba(23, 157, 255, 0.259);
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 12px;
+}
+.text__kdIvm {
+  display: block;
+  font-size: 19px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(23, 157, 255, 1);
+  position: absolute;
+  top: 28%;
+  left: 17%;
+}
+.goals {
+  width: 386px;
+  height: 118px;
+  display: block;
+  position: absolute;
+  top: 123px;
+  left: 43px;
+}
+.goal {
+  width: 196px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 102px;
+  left: 0px;
+}
+.text__kyv18 {
+  display: block;
+  font-size: 15px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(61, 59, 59, 1);
+  position: absolute;
+  top: 0%;
+  left: 13.26%;
+  width: 86.73%;
+  height: 100%;
+}
+.rectangle2 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
+  width: 8.16%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 2px;
+}
+.goal2 {
+  width: 196px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 68px;
+  left: 189px;
+}
+.text___573Ja {
+  display: block;
+  font-size: 15px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(61, 59, 59, 1);
+  position: absolute;
+  top: 0%;
+  left: 13.26%;
+  width: 86.73%;
+  height: 100%;
+}
+.rectangle4 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
+  width: 8.16%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 2px;
+}
+.goal3 {
+  width: 196px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 68px;
+  left: 0px;
+}
+.text__dZf {
+  display: block;
+  font-size: 15px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(61, 59, 59, 1);
+  position: absolute;
+  top: 0%;
+  left: 13.26%;
+  width: 86.73%;
+  height: 100%;
+}
+.rectangle5 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
+  width: 8.16%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 2px;
+}
+.goal4 {
+  width: 196px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 34px;
+  left: 189px;
+}
+.text__o72Sn {
+  display: block;
+  font-size: 15px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(61, 59, 59, 1);
+  position: absolute;
+  top: 0%;
+  left: 13.26%;
+  width: 86.73%;
+  height: 100%;
+}
+.rectangle6 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
+  width: 8.16%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 2px;
+}
+.goal5 {
+  width: 196px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 34px;
+  left: 0px;
+}
+.text__ocTf {
+  display: block;
+  font-size: 15px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(61, 59, 59, 1);
+  position: absolute;
+  top: 0%;
+  left: 13.26%;
+  width: 86.73%;
+  height: 100%;
+}
+.rectangle7 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
+  width: 8.16%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 2px;
+}
+.goal6 {
+  width: 196px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 190px;
+}
+.text___6VaQt {
+  display: block;
+  font-size: 15px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(61, 59, 59, 1);
+  position: absolute;
+  top: 0%;
+  left: 13.26%;
+  width: 86.73%;
+  height: 100%;
+}
+.rectangle8 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
+  width: 8.16%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 2px;
+}
+.goal7 {
+  width: 168px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.text__qMzyQ {
+  display: block;
+  font-size: 15px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(61, 59, 59, 1);
+  position: absolute;
+  top: 0%;
+  left: 15.47%;
+  width: 84.52%;
+  height: 100%;
+}
+.rectangle9 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
+  width: 9.52%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 2px;
+}
